@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Simulasi In</Title>
-      <h1>Coming Soon..</h1>
+      <h1>Coming Soon</h1>
     </main>
   );
 }
