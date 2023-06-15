@@ -6,8 +6,6 @@ export default function Home() {
     <main>
       <Title>Simulasi In</Title>
       <h1>Coming Soon</h1>
-      <br/>
-      <p>For Temporary Website, Click <a href="https://msha.ke/debujalanan" alt="debujalanan">Here</a></p>
     </main>
   );
 }
