@@ -22,7 +22,7 @@ export default function Root() {
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-DNCKGWZY07"></script>
-        <script type="text/javascript" src="gtm.js"></script>
+        <script type="text/javascript" src="gtag.js"></script>
       </Head>
       <Body>
         <Suspense>
